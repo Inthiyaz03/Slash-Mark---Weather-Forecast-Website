@@ -16,7 +16,7 @@ How to Run the Project 🚀
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/Weather-Forecast-Website.git
+git clone https://github.com/yInthiyaz03/Weather-Forecast-Website.git
 Navigate to the project directory:
 bash
 Copy code
